@@ -1,0 +1,1 @@
+python -m cProfile memory_test.py 10 | grep -E 'file_test^|!^|percall' > result.txt

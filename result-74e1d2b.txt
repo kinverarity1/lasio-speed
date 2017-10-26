@@ -1,0 +1,19 @@
+!$ git show --name-status --oneline
+! 74e1d2b Add data parsing by iteration
+!
+!	LAS file (MB)	Used Mem. (MB)
+!	5.112		3.543
+!	5.112		3.211
+!	5.112		3.211
+!	5.112		3.219
+!	5.112		3.219
+!	5.112		3.215
+!	5.112		3.486
+!	5.112		3.297
+!	5.112		3.211
+!	5.112		3.658
+!			-----------------
+!			average=3.327 MB
+!
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000   17.219    1.722 memory_test.py:16(file_test)

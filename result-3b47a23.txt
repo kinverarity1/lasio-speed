@@ -1,0 +1,19 @@
+!$ git show --name-status --oneline
+! 3b47a23 Merge branch 'master' of https://github.com/kinverarity1/lasio
+!
+!	LAS file (MB)	Used Mem. (MB)
+!	5.112		31.879
+!	5.112		29.835
+!	5.112		29.606
+!	5.112		29.880
+!	5.112		29.532
+!	5.112		29.524
+!	5.112		29.524
+!	5.112		29.532
+!	5.112		29.520
+!	5.112		27.935
+!			-----------------
+!			average=29.687 MB
+!
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.001    0.000   76.223    7.622 memory_test.py:16(file_test)
